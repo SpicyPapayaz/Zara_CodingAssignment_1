@@ -27,9 +27,9 @@ Submitted January 29, 2026_
 
 ### "PART2_CODING.py"   
 
-####Contains Part 2 implementation:   
-2.2 Frequency Analysis   
-2.3 Cross-Correlation  
-2.4 Caesar Cracking   
-2.4 Vigenere Cracking   
+#### Contains Part 2 implementation:   
+[2.2 Frequency Analysis](PART2_CRACKING.py)  
+[2.3 Cross-Correlation](PART2_CRACKING.py) 
+[2.4 Caesar Cracking](PART2_CRACKING.py) 
+[2.4 Vigenere Cracking](PART2_CRACKING.py)
 --------------------------------------------------

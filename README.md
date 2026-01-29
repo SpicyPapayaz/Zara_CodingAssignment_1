@@ -19,7 +19,7 @@ Submitted January 29, 2026_
 
 ### "2.1 Simple Crack By Hand.pdf"   
     Contains Part 2 written portion:   
-            2.1 Simple Cracks by Hands
+ [        [2.1 Simple Cracks by Hands](2.1%20Simple%20Crack%20By%20Hand.pdf)
 
 ### "PART2_CODING.py"   
     Contains Part 2 implementation:   

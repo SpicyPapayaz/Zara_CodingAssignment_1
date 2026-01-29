@@ -4,9 +4,12 @@
 --------------------------------------------------
 (x3) FILES TOTAL
 --------------------------------------------------
-"PART1_CAESAR_VIGENERE.py"    
-    Contains Part 1: 
-            1.1 Caesar Cipher   
+"PART1_CAESAR_VIGENERE.py"  
+
+    Contains Part 1:  
+     
+            1.1 Caesar Cipher  
+
             1.2 Vigenere Cipher    
 --------------------------------------------------
 "2.1 Simple Crack By Hand.pdf"   

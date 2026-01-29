@@ -14,8 +14,8 @@ Submitted January 29, 2026_
 ### "PART1_CAESAR_VIGENERE.py"
 
 #### Contains Part 1: 
-[1.1 Caesar Cipher](ART1_CAESAR_VIGENERE.py)\
-[1.2 Vigenere Cipher](ART1_CAESAR_VIGENERE.py)
+[1.1 Caesar Cipher](PART1_CAESAR_VIGENERE.py)\
+[1.2 Vigenere Cipher](PART1_CAESAR_VIGENERE.py)
 
 --------------------------------------------------
 
